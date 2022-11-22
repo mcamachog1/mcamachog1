@@ -17,6 +17,6 @@ Backend Developer  :man_technologist:.
 - 👋 Hi, I’m @mcamachog1
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning react.js
-- 👀 I’m currently working on php backend development
+- 👀 I’m currently working on backend development with php and MySQL
 - 💞️ I’m looking to collaborate on Django projects
 - 📫 How to reach me mcamachog@gmail.com

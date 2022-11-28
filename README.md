@@ -19,4 +19,4 @@ Backend Developer  :man_technologist:.
 - 🌱 I’m currently learning django and react.js
 - 👀 I’m currently working on backend development with php and MySQL
 - 💞️ I’m looking to collaborate on Django projects
-- 📫 I like play the guitar and kareokes
+- 📫 I like play the guitar and sing kareokes

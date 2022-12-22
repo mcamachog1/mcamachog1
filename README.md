@@ -16,7 +16,6 @@ Backend Developer  :man_technologist:.
 ## About me 
 - 👋 Hi, I’m @mcamachog1
 - 💻 I’m interested in fullstack development
-- ✍️ I’m currently learning Django and react.js
+- 👷‍ I’m currently developing Django and react.js projects and PHP backend services
 - 👀 I’m looking to collaborate on Django projects
-- 👷‍♀ I’m currently working on backend development with php and MySQL
 - :musical_note: I like play the guitar and sing kareokes
